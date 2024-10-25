@@ -163,18 +163,18 @@
 			children = (
 				2F12FF122B1B8FEC00181D89 /* Assets.xcassets */,
 				2FD0EE202B13DE0600405095 /* Info.plist */,
-				2F43335D2B100BA600C757D5 /* Bundle */,
-				2FD0EE0F2B117D2200405095 /* Extensions */,
-				2FF56A192B296AD10013AF75 /* Misc */,
-				2F0F00822B2784C1000D3323 /* SpriteKit */,
-				2F6E723D2B1ABD9B001A1313 /* Types */,
-				2F1FD9022B196D7500926D99 /* Views */,
 				2F1403982B0E91A6009D12C9 /* AppDelegate.swift */,
 				2F1403A02B0E91A6009D12C9 /* GameViewController.swift */,
 				2F1403A22B0E91A6009D12C9 /* Main.storyboard */,
 				2F1403A72B0E91A8009D12C9 /* LaunchScreen.storyboard */,
 				2F91E6102B16BE1D004C4A17 /* GameScene.sks */,
 				2F91E6122B16BED5004C4A17 /* MenuScene.sks */,
+				2F43335D2B100BA600C757D5 /* Bundle */,
+				2FD0EE0F2B117D2200405095 /* Extensions */,
+				2FF56A192B296AD10013AF75 /* Misc */,
+				2F0F00822B2784C1000D3323 /* SpriteKit */,
+				2F6E723D2B1ABD9B001A1313 /* Types */,
+				2F1FD9022B196D7500926D99 /* Views */,
 			);
 			path = FlappyClone;
 			sourceTree = "<group>";
@@ -271,10 +271,10 @@
 			isa = PBXGroup;
 			children = (
 				2FD2AD122B2E9D2300FA79AE /* Assets.xcassets */,
+				2FD2AD0E2B2E9D2200FA79AE /* FlappyCloneWatchApp.swift */,
 				2FD2AD222B2F6B1400FA79AE /* GameScene.sks */,
 				2FD2AD1D2B2EA78400FA79AE /* SpriteKit */,
 				2FD2AD1C2B2EA77D00FA79AE /* Views */,
-				2FD2AD0E2B2E9D2200FA79AE /* FlappyCloneWatchApp.swift */,
 				2FD2AD142B2E9D2300FA79AE /* Preview Content */,
 			);
 			path = "FlappyCloneWatch Watch App";
